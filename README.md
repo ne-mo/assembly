@@ -27,7 +27,7 @@ Currently a minimal example with basic map layers:
 - [ ] toilette
 - [ ] washbasin
 
-## Ne-mo
+## ne-mo
 - [ ] table
 - [x] deskmat
 - [x] laptop
