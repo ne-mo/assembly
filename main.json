@@ -17,14 +17,14 @@
                  "height":16,
                  "width":16,
                  "x":0,
-                 "y":16
+                 "y":0
                 }],
          "height":16,
          "id":6,
          "name":"floor0",
          "opacity":1,
          "startx":0,
-         "starty":16,
+         "starty":0,
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -38,7 +38,7 @@
                  "height":16,
                  "width":16,
                  "x":0,
-                 "y":16
+                 "y":0
                 }],
          "height":16,
          "id":1,
@@ -51,7 +51,7 @@
                  "value":true
                 }],
          "startx":0,
-         "starty":16,
+         "starty":0,
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -65,14 +65,14 @@
                  "height":16,
                  "width":16,
                  "x":0,
-                 "y":16
+                 "y":0
                 }],
          "height":16,
          "id":5,
          "name":"walls",
          "opacity":1,
          "startx":0,
-         "starty":16,
+         "starty":0,
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -86,14 +86,14 @@
                  "height":16,
                  "width":16,
                  "x":0,
-                 "y":16
+                 "y":0
                 }],
          "height":16,
          "id":7,
          "name":"objects",
          "opacity":1,
          "startx":0,
-         "starty":16,
+         "starty":0,
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -118,7 +118,7 @@
                  "height":16,
                  "width":16,
                  "x":0,
-                 "y":16
+                 "y":0
                 }],
          "height":16,
          "id":3,
@@ -136,7 +136,7 @@
                  "value":"Seems that exitUrl must point to another map"
                 }],
          "startx":0,
-         "starty":16,
+         "starty":0,
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -150,7 +150,7 @@
                  "height":16,
                  "width":16,
                  "x":0,
-                 "y":16
+                 "y":0
                 }],
          "height":16,
          "id":4,
@@ -163,7 +163,7 @@
                  "value":"https:\/\/streaming.media.ccc.de"
                 }],
          "startx":0,
-         "starty":16,
+         "starty":0,
          "type":"tilelayer",
          "visible":true,
          "width":16,
