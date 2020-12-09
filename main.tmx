@@ -46,16 +46,6 @@
     <property name="collides" value="true"/>
    </properties>
   </tile>
-  <tile id="21">
-   <properties>
-    <property name="collides" type="bool" value="true"/>
-   </properties>
-  </tile>
-  <tile id="37">
-   <properties>
-    <property name="collides" type="bool" value="true"/>
-   </properties>
-  </tile>
  </tileset>
  <tileset firstgid="482" name="ne-mo_stuff" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
   <image source="ne-mo/stuff.png" width="1024" height="1024"/>
