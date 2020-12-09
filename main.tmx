@@ -70,7 +70,7 @@
    </properties>
   </tile>
  </tileset>
- <layer id="6" name="floor0" width="16" height="16">
+ <layer id="6" name="floor0" width="16" height="16" visible="0">
   <data encoding="csv">
    <chunk x="0" y="16" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
